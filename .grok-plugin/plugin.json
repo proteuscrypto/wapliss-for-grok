@@ -1,0 +1,18 @@
+{
+  "name": "wapliss-whatsapp",
+  "version": "1.0.0",
+  "description": "Use your own WhatsApp from Grok through the hosted Wapliss MCP server: read and summarize chats and groups, see your latest received and sent messages, and send texts, images, documents, audio, video, locations, contact cards and polls, always with your confirmation. Sign in with your Wapliss account on first connect; no API key needed.",
+  "author": {
+    "name": "netdigitaltech",
+    "url": "https://wapliss.com/"
+  },
+  "homepage": "https://wapliss.com/integrations#grok",
+  "repository": "https://github.com/proteuscrypto/wapliss-for-grok",
+  "license": "MIT",
+  "keywords": [
+    "wapliss",
+    "wapliss whatsapp",
+    "wapliss mcp"
+  ],
+  "logo": "assets/icon.png"
+}

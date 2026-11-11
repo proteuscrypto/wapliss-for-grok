@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "wapliss": {
+      "type": "http",
+      "url": "https://wapliss.com/mcp/v1"
+    }
+  }
+}
